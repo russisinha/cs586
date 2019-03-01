@@ -1,6 +1,6 @@
 # CS 586 - Software System Architecture
 
-This repository contains project done during the the term of Spring 2018 for CS586
+This repository contains project for CS586 during the the term of Spring 2018
 
 # Project details
 
