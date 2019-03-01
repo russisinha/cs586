@@ -6,4 +6,4 @@ This repository contains project done during the the term of Spring 2018 for CS5
 
 The project provides the architecture of the working of a gas pump
 
-For more details go to the Project Documentation
+For more details go to the [Project Documentation](project/project%20documentation.pdf)
